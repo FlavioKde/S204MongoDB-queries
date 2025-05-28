@@ -2,7 +2,7 @@
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
 
 ## 📄 Description - Exercise Statement
 
@@ -36,8 +36,6 @@ The main objective is to master MongoDB query operations including:
 
 - **MongoDB** v4.4 or higher
 - **MongoDB Compass** (recommended for GUI operations)
-- **Node.js** v14.17.0 or higher (if using Node.js driver)
-- **NPM** v6.14.13 or higher (if using Node.js driver)
 
 ### 📊 Database Requirements
 - MongoDB instance running locally or remotely
@@ -260,17 +258,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Happy Querying! 🚀*
 ```
 
-This README.md file includes:
-
-✅ **English language** as requested  
-✅ **Markdown format** with proper syntax  
-✅ **Icons and badges** for visual appeal  
-✅ **Downloadable** - you can copy and save this content  
-✅ **All required sections** from your reference  
-✅ **MongoDB-specific content** based on your exercises  
-✅ **Professional structure** with clear sections  
-✅ **Code examples** from your query exercises  
-✅ **Multiple installation/execution options**  
-
-The README follows the structure you provided while being specifically tailored to MongoDB restaurant queries. It includes practical examples from your exercise list and provides comprehensive guidance for setup, execution, and deployment.
 
