@@ -245,7 +245,6 @@ Contributions are welcome! Please follow these steps to contribute:
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB Query Tutorial](https://docs.mongodb.com/manual/tutorial/query-documents/)
 - [MongoDB Compass Guide](https://docs.mongodb.com/compass/current/)
-- [Node.js MongoDB Driver](https://mongodb.github.io/node-mongodb-native/)
 
 ## 📄 License
 
